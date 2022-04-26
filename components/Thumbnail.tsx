@@ -3,6 +3,7 @@ import React from 'react'
 import { Movie } from '../typings'
 
 interface Props {
+  // movie: Movie | DocumentData
   movie: Movie
 }
 
